@@ -1,0 +1,26 @@
+{
+  "name": "wanglandau",
+  "version": "0.0.1",
+  "description": "Implementation of Wang and Landau algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "mcmc",
+    "markov",
+    "chain"
+  ],
+  "author": "Sergey Romanov <xxsmotur@gmail.com> (https://github.com/saromanov)",
+  "license": "MIT",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "mathjs": "^1.7.0",
+    "core-js": "^0.6.0",
+     "babel": "^4.6.0",
+    "mocha": "^2.2.5"
+
+  }
+}
