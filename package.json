@@ -20,7 +20,7 @@
   },
   "repository": "https://github.com/saromanov/wanglandau",
   "dependencies": {
-    "mathjs": "^6.2.3",
+    "mathjs": "^7.5.1",
     "core-js": "^0.6.0",
      "babel": "^4.6.0",
     "mocha": "^2.2.5"
