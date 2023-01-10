@@ -22,8 +22,8 @@
   "dependencies": {
     "mathjs": "^6.2.3",
     "core-js": "^0.6.0",
-     "babel": "^4.6.0",
-    "mocha": "^2.2.5"
+     "babel": "^5.0.0",
+    "mocha": "^4.0.0"
 
   }
 }
